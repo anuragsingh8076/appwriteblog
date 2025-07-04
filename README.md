@@ -96,15 +96,8 @@ appwriteblog/
 ## 👨‍💻 Author
 
 **Anurag Singh**
-[GitHub](https://github.com/anuragsingh8076) • [Twitter](https://twitter.com/yourhandle) *(optional)*
+[GitHub](https://github.com/anuragsingh8076) • [Twitter](https://x.com/Singh8076Anurag) 
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 > Made with 💙 using React, Tailwind, and Appwrite
 
